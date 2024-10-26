@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Symbolic Graph Project", "Symbolic Graph Project.pyproj", "{5C4C18D8-23AB-4D3C-AF32-C47DF64BE485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4C18D8-23AB-4D3C-AF32-C47DF64BE485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4C18D8-23AB-4D3C-AF32-C47DF64BE485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C2CD989-2E9E-4B2A-832C-8C20D9377EC8}
+	EndGlobalSection
+EndGlobal
